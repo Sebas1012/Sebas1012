@@ -1,4 +1,4 @@
-<h3>Hola, soy Sebastián 👋<h3>
+Hola, soy Sebastián 👋
   
 Soy estudiante de tecnologia en sistemas y un apasionado por la tecnologia.<br> En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, me gusta mucho el cloud computing y es de las cosas a las que quiero dedicarme en un futuro. 🚀🌠
 
