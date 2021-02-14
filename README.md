@@ -7,12 +7,13 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 - Mi albúm favorito es D'arcy de la misma banda. 📼❤️💽
 
 ### Tecnologias que me gustan: 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px"/>
   <img src="https://cdn.svgporn.com/logos/go.svg" width="40px" height="40px"/>
   <img src="https://cdn.svgporn.com/logos/arduino.svg" width="30px" height="30px"/>
   <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" width="30px" height="30px"/>
   <img src="https://cdn.svgporn.com/logos/google-cloud.svg" width="30px" height="30px"/>
+  <img src="https://cdn.svgporn.com/logos/azure-icon.svg" width="30px" height="30px"/>
   
 </div>
 
