@@ -6,7 +6,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 - Mi banda favorita es No Somos Marineros🚫🚢 de la ciudad de Mexico.
 - Mi albúm favorito es D'arcy de la misma banda. 📼❤️💽
 
-### Tecnologias que me gustan: 
+### Tecnologías que me gustan: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/go.svg" width="30px" height="30px" hspace="5" vspace="3"/>
