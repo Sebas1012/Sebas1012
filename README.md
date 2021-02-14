@@ -8,7 +8,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 
 ### Tecnologias que me gustan: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" style="padding: 0px 30px 0px 0px"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="20"/>
   <img src="https://cdn.svgporn.com/logos/gopher.svg" width="30px" height="30px"/>
   <img src="https://cdn.svgporn.com/logos/arduino.svg" width="30px" height="30px"/>
   <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" width="30px" height="30px"/>
