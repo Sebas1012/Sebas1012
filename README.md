@@ -9,11 +9,12 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ### Tecnologias que me gustan: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/gopher.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/go.svg" width="30px" height="30px" hspace="5" vspace="3"/>
   <img src="https://cdn.svgporn.com/logos/arduino.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/google-cloud.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/azure-icon.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
