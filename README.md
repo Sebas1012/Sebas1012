@@ -10,7 +10,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img class="tamaño" src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/go.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/ruby.svg" width="20px" height="20px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/ruby.svg" width="20px" height="20px" hspace="5" vspace="-50"/>
   <img src="https://cdn.svgporn.com/logos/arduino.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/raspberry-pi.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/google-cloud.svg" width="30px" height="30px" hspace="5"/>
