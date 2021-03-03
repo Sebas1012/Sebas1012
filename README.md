@@ -7,14 +7,6 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 - Mi albúm favorito es D'arcy de la misma banda. 📼❤️💽
 
 ### Tecnologías que me gustan: 
-<style>
-  @media only screen and (max-width: 600px) {
-    .tamaño{
-      width="30px";
-      height="30px";
-    }
-  }
-</style>
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img class="tamaño" src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/go.svg" width="30px" height="30px" hspace="5" vspace="5"/>
