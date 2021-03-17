@@ -27,5 +27,5 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas1012&layout=compact" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sebas1012&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sebas1012&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
