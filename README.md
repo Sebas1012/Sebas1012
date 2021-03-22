@@ -31,18 +31,6 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 200 Contributions in the Year 2021
- > 
-> 📦 17.9 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -81,6 +69,9 @@ Other                    0 secs              ░░░░░░░░░░░�
 VS Code                  2 hrs 34 mins       █████████████████████░░░░   86.31% 
 IntelliJ                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
 
+💻 Operating System: 
+Windows                  2 hrs 58 mins       █████████████████████████   100.0%
+
 ```
 
 **I Mostly Code in HTML** 
@@ -93,10 +84,6 @@ Ruby                     1 repo              ███░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Sebas1012/Sebas1012/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
