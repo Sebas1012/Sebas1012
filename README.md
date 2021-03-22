@@ -21,10 +21,10 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
  ### Mis Estadisticas: 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sebas1012&layout=compact)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas1012&layout=compact"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebas1012&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@sebas1012&layout=compact"/>
 </a>
 
 
