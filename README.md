@@ -33,7 +33,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 
 **🐱 My Github Data** 
 
-> 🏆 199 Contributions in the Year 2021
+> 🏆 200 Contributions in the Year 2021
  > 
 > 📦 17.9 kB Used in Github's Storage 
  > 
@@ -80,13 +80,6 @@ Other                    0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  2 hrs 34 mins       █████████████████████░░░░   86.31% 
 IntelliJ                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
-
-🐱‍💻 Projects: 
-Ejercicios_Ruby          2 hrs 34 mins       █████████████████████░░░░   86.31% 
-Ejercicios-Java          24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
-
-💻 Operating System: 
-Windows                  2 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
