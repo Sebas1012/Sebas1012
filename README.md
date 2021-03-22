@@ -28,3 +28,6 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 </a>
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
