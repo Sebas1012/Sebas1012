@@ -19,6 +19,13 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
   <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
+### Herramientas que uso: 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/hyper.svg" width="30px" height="30px" hspace="5"/>
+</div>
+
  ### Mis Estadisticas: 
 
 <!--START_SECTION:waka-->
