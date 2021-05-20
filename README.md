@@ -44,15 +44,13 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-CSS                      40 mins             █████████████████████░░░░   86.8% 
-HTML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
