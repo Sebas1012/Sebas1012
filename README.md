@@ -3,8 +3,9 @@
 Soy estudiante de tecnologia en sistemas y un apasionado por la tecnologia.
 En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, me gusta mucho el cloud computing y es de las cosas a las que quiero dedicarme en un futuro. 🚀🌠
 
-- Mi banda favorita es No Somos Marineros🚫🚢 de la ciudad de Mexico.
-- Mi albúm favorito es D'arcy de la misma banda. 📼❤️💽
+```Ruby
+{"name" => "Sebastián H.", "age" => nil, "hobbies" => ["Programar", "Videojuegos", "Aprender nuevas cosas"]}
+```
 
 
 ### Tecnologías y herramientas que uso: 
