@@ -45,8 +45,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TeX                      1 hr 35 mins        █████████████████████████   99.85% 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+TeX                      1 hr 35 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  1 hr 35 mins        █████████████████████████   100.0%
@@ -69,5 +68,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
