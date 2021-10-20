@@ -26,6 +26,13 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 
 
  ### Mis Estadisticas: 
+ 
+ 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://wakatime.com/badge/user/31bb2cbb-77e5-4675-9c9f-d6e01498f94d.svg"/>
+</div>
+
+<br>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
