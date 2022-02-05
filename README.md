@@ -36,6 +36,8 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%205%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -78,5 +80,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2022 18:41:16 UTC
+ Last Updated on 05/02/2022 18:42:28 UTC
 <!--END_SECTION:waka-->
