@@ -58,10 +58,10 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -78,5 +78,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2022 18:48:56 UTC
+ Last Updated on 11/03/2022 18:48:49 UTC
 <!--END_SECTION:waka-->
