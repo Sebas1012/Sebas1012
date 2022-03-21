@@ -55,7 +55,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -78,5 +78,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2022 18:47:41 UTC
+ Last Updated on 21/03/2022 18:49:28 UTC
 <!--END_SECTION:waka-->
