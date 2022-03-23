@@ -36,8 +36,6 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2051%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -57,13 +55,16 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      1 hr 17 mins        ████████████░░░░░░░░░░░░░   51.13% 
+HTML                     50 mins             ████████░░░░░░░░░░░░░░░░░   33.46% 
+JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
+INI                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,5 +81,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2022 18:49:00 UTC
+ Last Updated on 23/03/2022 18:50:10 UTC
 <!--END_SECTION:waka-->
