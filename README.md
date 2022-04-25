@@ -29,7 +29,8 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
  
  
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://wakatime.com/badge/user/31bb2cbb-77e5-4675-9c9f-d6e01498f94d.svg"/>
+  <img src="https://www.codewars.com/users/Sebas1012/badges/micro"/>
+<!--   <img src="https://wakatime.com/badge/user/31bb2cbb-77e5-4675-9c9f-d6e01498f94d.svg"/> -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sebas1012.Sebas1012%22"/>
 </div>
 
