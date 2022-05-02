@@ -56,8 +56,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Ruby                     1 hr 17 mins        █████████████████████████   99.96% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+Ruby                     1 hr 17 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
 VS Code                  1 hr 17 mins        █████████████████████████   100.0%
@@ -80,5 +79,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2022 18:51:27 UTC
+ Last Updated on 02/05/2022 18:52:50 UTC
 <!--END_SECTION:waka-->
