@@ -10,8 +10,8 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 
 ### Tecnologías y herramientas que uso: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/ruby.svg" width="25px" height="25px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/go.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/ruby.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5"/>
     <img src="https://cdn.svgporn.com/logos/vue.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/arduino.svg" width="30px" height="30px" hspace="5"/>
