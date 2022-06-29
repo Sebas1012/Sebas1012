@@ -58,13 +58,13 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Python                   1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +81,5 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2022 18:57:15 UTC
+ Last Updated on 29/06/2022 19:01:26 UTC
 <!--END_SECTION:waka-->
