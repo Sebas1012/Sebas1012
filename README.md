@@ -37,7 +37,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73%20Thousand%20lines%20of%20code-blue)
 
@@ -81,5 +81,5 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2022 18:53:29 UTC
+ Last Updated on 07/07/2022 18:53:30 UTC
 <!--END_SECTION:waka-->
