@@ -37,17 +37,17 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-🌆 Daytime    134 commits    ██████░░░░░░░░░░░░░░░░░░░   27.13% 
-🌃 Evening    257 commits    █████████████░░░░░░░░░░░░   52.02% 
-🌙 Night      27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.47%
+🌞 Morning    78 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
+🌆 Daytime    134 commits    ██████░░░░░░░░░░░░░░░░░░░   27.02% 
+🌃 Evening    257 commits    █████████████░░░░░░░░░░░░   51.81% 
+🌙 Night      27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44%
 
 ```
 
@@ -85,5 +85,5 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2022 18:54:24 UTC
+ Last Updated on 15/07/2022 18:55:43 UTC
 <!--END_SECTION:waka-->
