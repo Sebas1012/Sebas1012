@@ -37,7 +37,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73%20Thousand%20lines%20of%20code-blue)
 
@@ -58,17 +58,13 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Ruby                     49 mins             █████████████████████░░░░   84.54% 
-INI                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -85,5 +81,5 @@ Python                   3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2022 18:57:55 UTC
+ Last Updated on 19/07/2022 18:54:57 UTC
 <!--END_SECTION:waka-->
