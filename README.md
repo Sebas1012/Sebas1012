@@ -58,15 +58,13 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-JavaScript               2 hrs 15 mins       ████████████████████░░░░░   79.85% 
-HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,5 +81,5 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2022 18:57:33 UTC
+ Last Updated on 07/09/2022 18:56:00 UTC
 <!--END_SECTION:waka-->
