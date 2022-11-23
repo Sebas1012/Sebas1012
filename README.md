@@ -37,17 +37,17 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-65%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
-🌆 Daytime    97 commits     ██████░░░░░░░░░░░░░░░░░░░   26.08% 
-🌃 Evening    175 commits    ███████████░░░░░░░░░░░░░░   47.04% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+🌞 Morning    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.85% 
+🌆 Daytime    94 commits     ██████░░░░░░░░░░░░░░░░░░░   25.68% 
+🌃 Evening    172 commits    ███████████░░░░░░░░░░░░░░   46.99% 
+🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47%
 
 ```
 
@@ -84,5 +84,5 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2022 18:51:11 UTC
+ Last Updated on 23/11/2022 18:50:20 UTC
 <!--END_SECTION:waka-->
