@@ -37,7 +37,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-428%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66%20Thousand%20lines%20of%20code-blue)
 
@@ -58,17 +58,15 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-HTML                     2 hrs 21 mins       ███████████░░░░░░░░░░░░░░   46.94% 
-Python                   2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.76% 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81%
+Python                   38 mins             ██████████████░░░░░░░░░░░   55.67% 
+HTML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   26.06% 
+Git Config               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.27%
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  1 hr 9 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 2 mins        █████████████████████████   100.0%
+Windows                  1 hr 9 mins         █████████████████████████   100.0%
 
 ```
 
@@ -85,5 +83,5 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2023 18:45:44 UTC
+ Last Updated on 30/01/2023 18:45:32 UTC
 <!--END_SECTION:waka-->
