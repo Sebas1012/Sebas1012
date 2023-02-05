@@ -58,15 +58,13 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Python                   38 mins             ██████████████░░░░░░░░░░░   55.65% 
-HTML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   26.08% 
-Git Config               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.28%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,5 +81,5 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2023 18:43:37 UTC
+ Last Updated on 05/02/2023 18:46:38 UTC
 <!--END_SECTION:waka-->
