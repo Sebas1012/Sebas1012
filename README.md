@@ -39,7 +39,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%204%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -82,5 +82,5 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 18:48:16 UTC
+ Last Updated on 17/02/2023 18:42:53 UTC
 <!--END_SECTION:waka-->
