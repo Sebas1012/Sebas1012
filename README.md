@@ -37,17 +37,17 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.9%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-🌆 Daytime                287 commits         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-🌃 Evening                519 commits         █████████████░░░░░░░░░░░░   50.58 % 
-🌙 Night                  102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                288 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌃 Evening                519 commits         █████████████░░░░░░░░░░░░   50.54 % 
+🌙 Night                  102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 ```
 
 
@@ -82,5 +82,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/12/2023 18:37:04 UTC
+ Last Updated on 04/12/2023 18:38:42 UTC
 <!--END_SECTION:waka-->
