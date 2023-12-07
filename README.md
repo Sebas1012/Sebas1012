@@ -37,7 +37,37 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2043%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.9%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                288 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+🌃 Evening                519 commits         █████████████░░░░░░░░░░░░   50.54 % 
+🌙 Night                  102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+Python                   23 mins             ██████████████░░░░░░░░░░░   56.63 % 
+JSON                     12 mins             ████████░░░░░░░░░░░░░░░░░   30.06 % 
+Git Config               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+🔥 Editors: 
+VS Code                  41 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  41 mins             █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in HTML** 
 
@@ -52,5 +82,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 18:38:31 UTC
+ Last Updated on 07/12/2023 18:38:45 UTC
 <!--END_SECTION:waka-->
