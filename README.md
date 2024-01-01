@@ -37,7 +37,7 @@ En mis tiempos libres me gusta experimentar con sistemas embebidos y con Azure, 
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-556%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136.9%20thousand%20lines%20of%20code-blue)
 
@@ -83,5 +83,5 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 18:37:01 UTC
+ Last Updated on 01/01/2024 18:37:39 UTC
 <!--END_SECTION:waka-->
