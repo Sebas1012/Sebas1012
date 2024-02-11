@@ -30,8 +30,6 @@ Actualmente me desempeño como CloudOps Junior Engineer, me apasiona la tecnolog
 
 <br>
 
-![Metrics](https://metrics.lecoq.io/Sebas1012?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FBogota)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2026%20mins-blue)
 
