@@ -22,7 +22,7 @@ Actualmente me desempeño como CloudOps Junior Engineer, me apasiona la tecnolog
 
 ![Metrics](/metrics.plugin.wakatime.svg)
 ![Metrics](/metrics.plugin.traffic.svg)
-![Metrics](/metrics.plugin.languages.indepth.svg)
+![Metrics](/metrics.plugin.languages.details.svg)
 
 
 
