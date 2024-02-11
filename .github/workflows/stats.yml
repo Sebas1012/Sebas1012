@@ -42,6 +42,16 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+
+      -
+        name: Labels
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
     
 
 
