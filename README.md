@@ -23,6 +23,7 @@ Actualmente me desempeño como CloudOps Junior Engineer, me apasiona la tecnolog
 [<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
 [<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
+[<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.isocalendar.svg">](#)
 
 
 

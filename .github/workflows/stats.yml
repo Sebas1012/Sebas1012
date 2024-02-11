@@ -59,5 +59,15 @@ jobs:
           base: repositories
           plugin_traffic: yes
 
+      -
+        name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+        
+
 
           
