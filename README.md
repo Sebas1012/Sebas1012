@@ -6,6 +6,7 @@ Actualmente me desempeño como CloudOps Junior Engineer, me apasiona la tecnolog
 {"name" => "Sebastián H.", "age" => nil, "hobbies" => ["Programar", "Videojuegos", "Aprender nuevas cosas"]}
 ```
 
+![Metrics](/metrics.plugin.wakatime.svg)
 
 ### Tecnologías y herramientas que uso: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
