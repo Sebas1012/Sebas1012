@@ -35,14 +35,14 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
       -
-        name: Example
+        name: Detailed display
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
+          filename: metrics.plugin.achievements.svg
           token: ${{ secrets.GH_TOKEN }}
-          base: header, repositories
-          plugin_lines: yes
-
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
     
 
 
