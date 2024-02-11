@@ -23,16 +23,6 @@ jobs:
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_LINES_OF_CODE: "True"
-      -
-        name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
 
       -
         name: Indepth analysis
@@ -51,14 +41,15 @@ jobs:
           plugin_languages_analysis_timeout: 15
 
       -
-        name: Labels
+        name: WakaTime
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.topics.svg
-          token: ${{ secrets.GH_TOKEN }}
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
           base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 12
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
     
 
 
