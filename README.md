@@ -1,6 +1,6 @@
 ## Hola, soy Sebastián 👋
 
-Actualmente me desempeño como Backend Developer, me apasiona la tecnologia y el cloud computing. Me gusta participar en proyectos y generar ideas que ayuden a agilizar procesos por medio de software y la automatizacion.
+Actualmente me desempeño como **Backend Developer**, me apasiona la tecnologia y el cloud computing. Me gusta participar en proyectos y generar ideas que ayuden a agilizar procesos por medio de software y la automatizacion.
 
 ```Ruby
 {"name" => "Sebastián H.", "age" => nil, "hobbies" => ["Programar", "Videojuegos", "Aprender nuevas cosas"]}
