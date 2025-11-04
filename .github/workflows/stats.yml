@@ -72,7 +72,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.WAKATIME_API_KEY }}
+          token: ${{ secrets.GH_TOKEN }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_only: >-
