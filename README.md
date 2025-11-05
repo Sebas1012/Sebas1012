@@ -20,6 +20,11 @@ Actualmente me desempeño como **Backend Developer**, me apasiona la tecnologia 
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png" width="30px" height="30px" hspace="5"/>
 </div>
 
+### Certificaciones: 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="=40px" height="40px" hspace="5" vspace="5"/>
+</div>
+
 ### Mis Estadisticas: 
 
 [<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
