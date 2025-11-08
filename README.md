@@ -26,7 +26,7 @@ Actualmente me desempeño como **Backend Developer**, me apasiona la tecnologia 
 </div>
 
 ### Mis Estadisticas: 
-
+<a href="https://wakatime.com/@31bb2cbb-77e5-4675-9c9f-d6e01498f94d"><img align="left" src="https://wakatime.com/badge/user/31bb2cbb-77e5-4675-9c9f-d6e01498f94d.svg" alt="Total time coded since Apr 22 2020" hspace="10" /></a><br>
 [<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
 [<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
