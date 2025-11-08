@@ -25,8 +25,7 @@ Actualmente me desempeño como **Backend Developer**, me apasiona la tecnologia 
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="=40px" height="40px" hspace="5" vspace="5"/>
 </div>
 
-### Mis Estadisticas: 
-<a href="https://wakatime.com/@31bb2cbb-77e5-4675-9c9f-d6e01498f94d"><img align="left" src="https://wakatime.com/badge/user/31bb2cbb-77e5-4675-9c9f-d6e01498f94d.svg" alt="Total time coded since Apr 22 2020" hspace="10" /></a><br>
+### Mis Estadisticas: <a href="https://wakatime.com/@31bb2cbb-77e5-4675-9c9f-d6e01498f94d"><img src="https://wakatime.com/badge/user/31bb2cbb-77e5-4675-9c9f-d6e01498f94d.svg" alt="Total time coded since Apr 22 2020"/></a><br>
 [<img align="left" width="390" alt="Wakatime Stats" src="/metrics.plugin.wakatime.svg">](#)
 [<img align="right" width="390" alt="Repos Stats" src="/metrics.plugin.traffic.svg">](#)
 [<img align="left" width="390" alt="Languages Stats" src="/metrics.plugin.languages.details.svg">](#)
