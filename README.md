@@ -4,7 +4,7 @@ Actualmente me desempeño como **DevOps Engineer**, me apasiona la tecnologia y 
 
 ```terraform
 locals {
-  perfil = {
+  me = {
     name    = "Sebastián H."
     age     = null
     hobbies = ["Programar", "Videojuegos", "Aprender nuevas cosas"]
