@@ -1,10 +1,18 @@
-## Hola, soy Sebastián 👋
+## Hola, soy Sebas👋
 
-Actualmente me desempeño como **Backend Developer**, me apasiona la tecnologia y el cloud computing. Me gusta participar en proyectos y generar ideas que ayuden a agilizar procesos por medio de software y la automatizacion.
+Actualmente me desempeño como **DevOps Engineer**, me apasiona la tecnologia y el cloud computing. Me gusta participar en proyectos y generar ideas que ayuden a agilizar procesos por medio de software y la automatizacion.
 
-```Ruby
-{"name" => "Sebastián H.", "age" => nil, "hobbies" => ["Programar", "Videojuegos", "Aprender nuevas cosas"]}
+```terraform
+locals {
+  perfil = {
+    name    = "Sebastián H."
+    age     = null
+    hobbies = ["Programar", "Videojuegos", "Aprender nuevas cosas"]
+  }
+}
 ```
+
+<img src="https://img.shields.io/badge/Portafolio_Oficial-sebas1012.dev-000000?style=for-the-badge" alt="sebas1012.dev">
 
 ### Tecnologías y herramientas que uso: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
