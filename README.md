@@ -19,6 +19,7 @@ locals {
   <img src="https://cdn.svgporn.com/logos/aws.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/aws-lambda.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/aws-cloudformation.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/terraform-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/python.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5"/>
