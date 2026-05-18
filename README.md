@@ -14,19 +14,28 @@ locals {
 
 <img src="https://img.shields.io/badge/Portafolio_Oficial-sebas1012.dev-000000?style=for-the-badge" alt="sebas1012.dev">
 
-### Tecnologías y herramientas que uso: 
+### Cloud & Infraestructura: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/aws.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/aws-lambda.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/aws-cloudformation.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/terraform-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+</div>
+
+### Contenedores & CI/CD: 
+<div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/python.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/sonarcloud-icon.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-azure-devops-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3029870.png" width="30px" height="30px" hspace="5"/>
+</div>
+
+### Lenguajes: 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/java.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/ruby.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/gopher.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/bash-icon.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
 ### Certificaciones: 
